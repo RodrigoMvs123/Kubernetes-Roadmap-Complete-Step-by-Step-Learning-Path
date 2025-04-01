@@ -126,4 +126,52 @@ Architecture
 - Cluster DNS services 
 - Soft Networking Isolation
 - Hard Networking Isolation
+
+12. Cluster Access Management
+
+- Configure who can do what
+- Learn about Role Based Access Control (RBAC)
+  - Role, ClusterRole, RoleBinding, ClusterRoleBinding
+  - Service Accounts
+  - Kubeconfig 
+  - Client Certificates
+  - Integrate Authentication Services 
+
+13. Backup and Secure Data
+
+- How data is managed in Kubernetes
+- Kubernetes Volumes or persisting application data 
+- Etcd - primary data store for Kubernetes, what stored, how to backup and secure
+- Secure any secret data 
+
+14. Kubernetes Operators 
+
+- Essential for managing stateful applications ( Database, message brokers, etc)
+- Learn to deploy and use Operators 
+
+15. Monitoring 
+
+- Setup third party logging, monitoring and alerting system 
+- A popular tool for Kubernetes and Containerized app is Prometheus 
+
+16. Best Practices 
+
+#### Kubernetes User Developer Roadmap
   
+17. Deep dive on Deployments Components
+
+- Learn different configuration options for core Kubernetes resources
+- How to define Init Containers 
+- Understand and configure different volume types
+- Understand and configure different service types
+
+18. Deployment Strategies
+
+ - Canary
+ - Blue-Green 
+ - Rolling Updates / Rollbacks
+  
+- Understand how to deploy without causing app downtime
+
+19. CI / CD Integration
+
