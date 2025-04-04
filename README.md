@@ -175,3 +175,18 @@ Architecture
 
 19. CI / CD Integration
 
+- Learn how to integrate CI/CD with Kubernetes
+
+> Automatically deploy to Kubernetes cluster
+
+> Learn it for both: Self-Management and Managed Kubernetes Services
+
+20. Application Network
+
+- Service Mesh, Ingress
+
+> Configure connections within the cluster for microservices applications 
+
+> Learn how to configure 3rd party services, like Service Mesh, Message Broker 
+
+> Handle traffic to the cluster and within the cluster 
